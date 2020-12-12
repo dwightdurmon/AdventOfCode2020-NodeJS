@@ -1,0 +1,1 @@
+Note that the second exercise was worded in a way to misguide you.  All you have to do is find the missing id in between min and max seat id from the input. 
